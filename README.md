@@ -1,6 +1,8 @@
 # TeachMe
 Nama : Gevyndo Gunawan 
+
 NIM : 18221076 
+
 URL API : https://teachme-gevyndo-18221070.azurewebsites.net/
 
 Penjelasan Pembuatan dan Deploy API
